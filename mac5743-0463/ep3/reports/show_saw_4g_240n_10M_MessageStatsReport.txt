@@ -1,0 +1,20 @@
+Message stats for scenario show_saw_4g_240n_10M
+sim_time: 3600.1000
+created: 120
+started: 654
+relayed: 648
+aborted: 6
+dropped: 290
+removed: 0
+delivered: 62
+delivery_prob: 0.5167
+response_prob: 0.0000
+overhead_ratio: 9.4516
+latency_avg: 341.0081
+latency_med: 244.7000
+hopcount_avg: 2.0968
+hopcount_med: 2
+buffertime_avg: 1377.6014
+buffertime_med: 1309.3000
+rtt_avg: NaN
+rtt_med: NaN

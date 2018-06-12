@@ -1,0 +1,7 @@
+EP1
+
+Exercício Programa 1
+
+Entregar escrito em linguagem de montagem para o NASM um programa que calcula e imprime todos os números primos menores que 1000. 
+
+Não é permitido usar nenhuma biblioteca de funções, como por exemplo a libc e deve-se inplementar uma subrotina de nome int2str que recebe como argumentos um inteiro de 32 bits e um endereço de um vetor de 12bytes e codifica neste vetor a representação decimal do inteiro fornecido usando a tabela ASCII, seguido de um LF (0AH) e de um 0. Deve-se usar a interrupção de sistema para escrita de string no dispositivo padrão de saída.

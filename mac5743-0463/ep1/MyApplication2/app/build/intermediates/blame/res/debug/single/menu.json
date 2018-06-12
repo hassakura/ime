@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/menu/menu_student.xml",
+        "source": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/src/main/res/menu/menu_student.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/menu/menu_professor.xml",
+        "source": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/src/main/res/menu/menu_professor.xml"
+    }
+]

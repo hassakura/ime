@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/hideki/git2/CompMovel/CompMovel/EP2/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="52f5c43f7490399cd80b3a7c8677001ebbb02ec9">
+        <dex dex="/home/hideki/git2/CompMovel/CompMovel/EP2/android/build/intermediates/pre-dexed/debug/core-1.0_51ec95ae6cdfd545e99d3b72507a9c2ebbc39035.jar" />
+    </item>
+    <item
+        jar="/home/hideki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/home/hideki/git2/CompMovel/CompMovel/EP2/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_77ce835f97f69f4c2f1e2d5fd888bf7890cce295.jar" />
+    </item>
+    <item
+        jar="/home/hideki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/home/hideki/git2/CompMovel/CompMovel/EP2/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_32a6c6c19d4d43364598c4faf1685377496f73d8.jar" />
+    </item>
+    <item
+        jar="/home/hideki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/home/hideki/git2/CompMovel/CompMovel/EP2/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_87599c9bdcf3e06204e13d1ff1d822339f971dcc.jar" />
+    </item>
+    <item
+        jar="/home/hideki/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.6/69187cc3c8062f191df435b43671b0e5ffcbf353/gdx-freetype-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="/home/hideki/git2/CompMovel/CompMovel/EP2/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.6_ea6d5b4f2f2f2e411ec56f687503459f66015078.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,20 @@
+Message stats for scenario show_pr_3g_240n_10M
+sim_time: 3600.1000
+created: 120
+started: 52732
+relayed: 44199
+aborted: 8508
+dropped: 43324
+removed: 0
+delivered: 37
+delivery_prob: 0.3083
+response_prob: 0.0000
+overhead_ratio: 1193.5676
+latency_avg: 486.9486
+latency_med: 227.3000
+hopcount_avg: 4.6757
+hopcount_med: 4
+buffertime_avg: 55.2238
+buffertime_med: 17.2000
+rtt_avg: NaN
+rtt_med: NaN

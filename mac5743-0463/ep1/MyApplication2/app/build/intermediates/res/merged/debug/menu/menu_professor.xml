@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hideki.myapplication.ProfessorArea">
+    <item
+        android:id="@+id/action_new_seminar"
+        android:orderInCategory="100"
+        android:title="@string/action_new_seminar"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_new_professor"
+        android:orderInCategory="100"
+        android:title="@string/action_new_professor"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_edit_account"
+        android:orderInCategory="100"
+        android:title="@string/action_edit_account"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_log_out"
+        android:orderInCategory="100"
+        android:title="@string/action_log_out"
+        app:showAsAction="never" />
+</menu>

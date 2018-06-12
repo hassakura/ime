@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/hideki/.android/build-cache/2a5967164f4f1d9c6818af7669a45cf08a50b3c7/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/color-v23/abc_btn_colored_text_material.xml"
+    }
+]

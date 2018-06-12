@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/hideki/git2/TUDO/CompMovel2/EP1/MyApplication2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/hideki/.android/build-cache/b0f945b3682b6cf1c5f81dde0de38068e8ebcb1b/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

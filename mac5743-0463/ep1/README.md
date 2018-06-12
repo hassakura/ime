@@ -1,0 +1,1 @@
+Disponível apenas o aplicativo android, feito por mim

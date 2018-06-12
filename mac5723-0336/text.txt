@@ -1,0 +1,7 @@
+#! /bin/bash
+
+set -o xtrace
+
+make
+./main text.txt BolodeCenouraaaa
+./decrypt text.txt BolodeCenouraaaa
